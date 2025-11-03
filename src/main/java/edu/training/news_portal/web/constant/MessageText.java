@@ -12,5 +12,9 @@ public final class MessageText {
 	public static final String INVALID_CREDENTIALS = "Incorrect email or password.";
 	public static final String UNKNOWN_ERROR = "An unexpected error occurred. Please try again later.";
 	public static final String ERROR_REGISTRATION = "Registration error. Please try again later.";
-
+	public static final String NO_PERMISSION = "You don’t have permission to perform this action.";
+	public static final String COMMENT_ID_MISSING = "Comment ID is missing.";
+	public static final String NEWS_ID_MISSING = "News ID is missing.";
+	public static final String INVALID_COMMENT_OR_NEWS_ID = "Invalid comment or news ID format.";
+	public static final String COMMENT_HIDDEN_SUCCESS = "Comment successfully hidden.";
 }
